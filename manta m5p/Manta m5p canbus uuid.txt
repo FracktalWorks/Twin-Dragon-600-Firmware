@@ -1,3 +1,0 @@
-Serial Name: DiligentCyan TD-10623
-
-BTT-Manta M5P CanBus ID:a7735def0165

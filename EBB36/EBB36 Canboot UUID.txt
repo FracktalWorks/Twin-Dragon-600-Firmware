@@ -1,3 +1,0 @@
-Serial Name: DiligentCyan TD-10623
-
-EBB36 V1.1 ToolBoard0 CanBus ID: b6c7dba8b19b
